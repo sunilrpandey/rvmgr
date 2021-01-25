@@ -1,0 +1,13 @@
+{
+  "file1.txt":[
+    "review item a",
+    "review item b"
+  ],
+  "file2.txt":[
+    "review item c"
+  ],
+  "file3.txt":[
+    "review item b",
+    "review item d"
+  ]
+}
